@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://dev.to/https://dev.to/cheesevox" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/cheesevox" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/cheesevox" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="https://codesandbox.io/u/cheesevox" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100023957775895" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100023957775895" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100023957775895" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100023957775895" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
