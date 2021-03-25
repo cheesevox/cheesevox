@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **cheesevox@gmail.com**
 
-- ⚡ Fun fact **I think I like new technologies**
+- ⚡ Fun fact **Say "cheese" while coding with me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
