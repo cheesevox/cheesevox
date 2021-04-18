@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tri (Cheese)</h1>
 <h3 align="center">A passionate frontend developer from Vietnamese</h3>
 
-<img title="" src="https://media.giphy.com/media/Xex6enVlCErDdipfuj/giphy.gif" alt="Alt Text" width="150" data-align="inline">
+<img title="" src="https://media.giphy.com/media/KEHAuw89oXrKq0UfLd/giphy.gif" alt="Alt Text" width="150" data-align="inline">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheesevox&label=Profile%20views&color=0e75b6&style=flat" alt="cheesevox" /> </p>
 
