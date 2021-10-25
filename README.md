@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/cheesevox](https://github.com/cheesevox)
 
-- 💬 Ask me about **python, c#, back-end**
+- 💬 Ask me about **java, c#, back-end**
 
 - 📫 How to reach me **cheesevox@gmail.com**
 
